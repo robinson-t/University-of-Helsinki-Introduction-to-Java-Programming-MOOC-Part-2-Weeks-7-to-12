@@ -1,1 +1,1 @@
-# University of Helsinki Introduction to Java Programming Part 1 Weeks 1 to 6
+# University of Helsinki Introduction to Java Programming Part 2 Weeks 7 to 12
